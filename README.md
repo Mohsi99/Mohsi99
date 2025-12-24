@@ -4,7 +4,7 @@
 Flutter Developer with 1.5+ years building high-quality mobile apps. Passionate about clean code and scalable architecture.
 
 ## 🚀 Currently Working On
-- **Obsidian Magnetar** at DubiCar - Financial management app with clean architecture & modern UI/UX
+- **Obsidian Magnetar** at DubiCars - Financial management app with clean architecture & modern UI/UX
 
 ## 🛠️ Tech Stack
 **Mobile:** Flutter • Dart • Android SDK  
@@ -17,4 +17,4 @@ Flutter Developer with 1.5+ years building high-quality mobile apps. Passionate 
 
 ---
 
-💼 **8+ Projects Delivered** | 🏢 **DubiCar • The Sky Coaching • JIAM IT Solutions**
+💼 **8+ Projects Delivered** | 🏢 **DubiCars • The Sky Coaching • JIAM IT Solutions**
