@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Mohsin 👋
 
 ## 👨‍💻 Who am I?
-Flutter Developer with 1.5+ years building high-quality mobile apps. Passionate about clean code and scalable architecture.
+Flutter Developer with 1.6+ years building high-quality mobile apps. Passionate about clean code and scalable architecture.
 
 ## 🚀 Currently Working On
 - **Obsidian Magnetar** at DubiCars - Financial management app with clean architecture & modern UI/UX
